@@ -1,0 +1,6 @@
+{
+  "image": "julia",
+  "extensions": [
+    "julianlang.language-julia"
+  ]
+}
